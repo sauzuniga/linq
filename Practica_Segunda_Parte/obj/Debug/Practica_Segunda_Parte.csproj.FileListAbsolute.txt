@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\practica\Practica_Segunda_Parte\bin\Debug\Practica_Segunda_Parte.exe.config
+C:\Users\USER\source\repos\practica\Practica_Segunda_Parte\bin\Debug\Practica_Segunda_Parte.exe
+C:\Users\USER\source\repos\practica\Practica_Segunda_Parte\bin\Debug\Practica_Segunda_Parte.pdb
+C:\Users\USER\source\repos\practica\Practica_Segunda_Parte\obj\Debug\Practica_Segunda_Parte.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\practica\Practica_Segunda_Parte\obj\Debug\Practica_Segunda_Parte.Form1.resources
+C:\Users\USER\source\repos\practica\Practica_Segunda_Parte\obj\Debug\Practica_Segunda_Parte.Properties.Resources.resources
+C:\Users\USER\source\repos\practica\Practica_Segunda_Parte\obj\Debug\Practica_Segunda_Parte.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\practica\Practica_Segunda_Parte\obj\Debug\Practica_Segunda_Parte.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\practica\Practica_Segunda_Parte\obj\Debug\Practica_Segunda_Parte.exe
+C:\Users\USER\source\repos\practica\Practica_Segunda_Parte\obj\Debug\Practica_Segunda_Parte.pdb

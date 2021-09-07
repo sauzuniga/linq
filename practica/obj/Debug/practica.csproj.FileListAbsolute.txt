@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\practica\practica\bin\Debug\practica.exe.config
+C:\Users\USER\source\repos\practica\practica\bin\Debug\practica.exe
+C:\Users\USER\source\repos\practica\practica\bin\Debug\practica.pdb
+C:\Users\USER\source\repos\practica\practica\obj\Debug\practica.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\practica\practica\obj\Debug\practica.Form1.resources
+C:\Users\USER\source\repos\practica\practica\obj\Debug\practica.Properties.Resources.resources
+C:\Users\USER\source\repos\practica\practica\obj\Debug\practica.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\practica\practica\obj\Debug\practica.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\practica\practica\obj\Debug\practica.exe
+C:\Users\USER\source\repos\practica\practica\obj\Debug\practica.pdb
